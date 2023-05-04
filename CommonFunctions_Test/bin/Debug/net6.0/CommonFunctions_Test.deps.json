@@ -1,0 +1,40 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CommonFunctions_Test/1.0.0": {
+        "dependencies": {
+          "CommonFunctions": "1.0.0",
+          "CommonFunctions.Reference": "1.0.0.0"
+        },
+        "runtime": {
+          "CommonFunctions_Test.dll": {}
+        }
+      },
+      "CommonFunctions.Reference/1.0.0.0": {
+        "runtime": {
+          "CommonFunctions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CommonFunctions_Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommonFunctions.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

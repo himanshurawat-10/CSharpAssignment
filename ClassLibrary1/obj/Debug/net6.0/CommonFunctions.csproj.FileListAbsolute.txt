@@ -1,0 +1,12 @@
+C:\Users\Himanshur\source\repos\ClassLibrary1\bin\Debug\net6.0\CommonFunctions.deps.json
+C:\Users\Himanshur\source\repos\ClassLibrary1\bin\Debug\net6.0\CommonFunctions.dll
+C:\Users\Himanshur\source\repos\ClassLibrary1\bin\Debug\net6.0\CommonFunctions.pdb
+C:\Users\Himanshur\source\repos\ClassLibrary1\obj\Debug\net6.0\CommonFunctions.csproj.AssemblyReference.cache
+C:\Users\Himanshur\source\repos\ClassLibrary1\obj\Debug\net6.0\CommonFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshur\source\repos\ClassLibrary1\obj\Debug\net6.0\CommonFunctions.AssemblyInfoInputs.cache
+C:\Users\Himanshur\source\repos\ClassLibrary1\obj\Debug\net6.0\CommonFunctions.AssemblyInfo.cs
+C:\Users\Himanshur\source\repos\ClassLibrary1\obj\Debug\net6.0\CommonFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Himanshur\source\repos\ClassLibrary1\obj\Debug\net6.0\CommonFunctions.dll
+C:\Users\Himanshur\source\repos\ClassLibrary1\obj\Debug\net6.0\refint\CommonFunctions.dll
+C:\Users\Himanshur\source\repos\ClassLibrary1\obj\Debug\net6.0\CommonFunctions.pdb
+C:\Users\Himanshur\source\repos\ClassLibrary1\obj\Debug\net6.0\ref\CommonFunctions.dll
